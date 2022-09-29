@@ -1,2 +1,4 @@
 # dirandmag
-Dir and Mage website
+Dir and Mag website
+
+Child Theme
